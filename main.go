@@ -7,6 +7,7 @@ import (
 	"time"
 )
 
+// github.com/sojoudian/
 type TimeResponse struct {
 	CurrentTime string `json:"current_time"`
 }
